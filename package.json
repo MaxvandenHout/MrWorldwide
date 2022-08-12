@@ -1,0 +1,24 @@
+{
+  "name": "mrworldwide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxvandenHout/MrWorldwide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxvandenHout/MrWorldwide/issues"
+  },
+  "homepage": "https://github.com/MaxvandenHout/MrWorldwide#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.2"
+  },
+  "dependencies": {}
+}
